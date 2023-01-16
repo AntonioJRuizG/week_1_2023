@@ -13,3 +13,6 @@ if (true) {
 //main es la rama en la que estamos
 const x = 22;
 console.log(x);
+// git commit -m'descripcion de lo que se commitea'. La primera vez que se hace un commit se entiende que son ficheros de configuracion y se llama 'Initial commit'
+
+//Github es un hosting de repositorios de git
