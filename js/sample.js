@@ -18,6 +18,6 @@ console.log(x);
 //Github es un hosting de repositorios de git
 
 const sample = () => {
-  const c = 22;
-  console.log(c);
+  const x = 22;
+  console.log(x);
 };
