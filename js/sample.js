@@ -19,5 +19,5 @@ console.log(x);
 
 const sample = () => {
   const x = 22;
-  console.log(x);
+  console.log(x / 2);
 };
